@@ -1,0 +1,7 @@
+nav a.active{
+    background-color: violet;
+    border-radius: 20px;
+}
+.backgrounds{
+    background-color: wheat;
+}
